@@ -1,4 +1,4 @@
-# Visual Studio Code の 拡張機能 Remote - Containers で AWS CLI コンテナに接続する
+# Visual Studio Code の 拡張機能 Remote - Containers で AWS CLI 公式コンテナに接続する
 
 Visual Studio Code の拡張機能である Remote - Containers で
 AWS 公式の CLI Docker イメージ amazon/aws-cli に接続するための
