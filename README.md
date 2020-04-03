@@ -17,9 +17,9 @@ AWS 公式の CLI Docker イメージ amazon/aws-cli に接続するための
 # Usage
 
 1. このプロジェクトのファイルを clone します
-```bash
-$ git clone https://github.com/futuremaze/vscode-remote-aws-cli
-```
+    ```bash
+    $ git clone https://github.com/futuremaze/vscode-remote-aws-cli
+    ```
 1. clone したプロジェクトディレクトリを Visual Studio Code で開きます
 1. Remote - Containers の機能で `Reopen Folder in Container...` を選択します
 
